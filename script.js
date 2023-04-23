@@ -1,7 +1,7 @@
 //  how to merge two array in dsa with JavaScript
 
 
-let data = [25, 35, 45, 55, 65, 75];
+let data = [25, 35, 45, 55, 65, 75, 5804, 528, 24525, 755, 2, 505];
 let data2 = [40, 50, 90, 82, 333, 699999];
 let data3 = [];
 
